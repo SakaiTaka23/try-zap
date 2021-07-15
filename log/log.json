@@ -1,0 +1,3 @@
+{"level":"info","time":"2021-07-13T13:35:21.656+0900","caller":"zap_di/main.go:18","msg":"Zap Start.{time 16 1626150921656563000  Local}"}
+{"level":"debug","time":"2021-07-13T13:35:21.656+0900","caller":"zap_di/main.go:19","msg":"Debug.{time 16 1626150921656975000  Local}"}
+{"level":"info","time":"2021-07-13T13:35:21.657+0900","caller":"component/test.go:11","msg":"Test Check time.{time 16 1626150921656998000  Local}"}
